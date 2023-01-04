@@ -1,8 +1,9 @@
 // This file is included after all of Bootstrap. Any customization that can't
 // be made using variable definitions should be done here.
 
-body {
-  background: red;
+// Local modifications
+svg.svg-inline--fa.fa-check {
+	display: none;
 }
 
 // Alerts
